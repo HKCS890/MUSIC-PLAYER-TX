@@ -77,16 +77,5 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HKCS890/MUSIC-PLAYER-TX)
 
-### Special Credits 💖
-- [Levina](https://github.com/levina-lab): Dev
-- [Tofik](https://github.com/tofikdn): Dev
-- [Zxce3](https://github.com/Zxce3): Dev
-- [Hunter-XDD](https://github.com/HUnter-XDD): Dev
-- [Hyoka-XD](https://github.com/PratheekXD): Contributor
-- [Rajkumar](https://github.com/Awesome-RJ): Contributor
-- [Laky](https://github.com/Laky-64): PyTgCalls
-- [Dan](https://github.com/delivrance): Pyrogram
-- [Original Repo](https://github.com/callsmusic/callsmusic) CallsMusic
-- [Veez Music Bot](https://t.me/veezmusicbot) Our Music Bot
-- [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
-- [TeamDaisyX](https://github.com/TeamDaisyX) for base code
+
+- [OWNER](https://github.com/HKCS890)
